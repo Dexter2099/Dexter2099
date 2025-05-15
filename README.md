@@ -2,7 +2,7 @@
 - 👀 I’m looking for work as an entry-level software developer
 - 🌱 I’m currently learning Frontend and Backend web development
 - 📫 How to reach me dexter.mehta01@gmail.com
-- Check out https://dexter2099.github.io/DMpersonalwebsite.github.io/
+- Check out https://dexter2099.github.io/
   
 
 
