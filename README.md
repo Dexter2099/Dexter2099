@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dexter2099, or Dexter. 
-- 👀 I’m looking for work as an entry-level software developer
-- 🌱 I’m currently learning full stack web development
-- 📫 How to reach me dexter.mehta01@gmail.com
+- 👋 Hi, I’m Dexter. 
+- 👀 I’m looking for a role as a junior software developer
+- 🌱 I’m a Masters of Information Technology Graduate from the Queensland University of Technology, majoring in computer science
+- 📫 How to reach me: dexter.mehta01@gmail.com
 - Check out https://dexter2099.github.io/
   
 
