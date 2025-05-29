@@ -3,7 +3,7 @@
 - 🌱 I’m a Masters of Information Technology Graduate from the Queensland University of Technology, majoring in computer science
 - 📫 How to reach me: dexter.mehta01@gmail.com
 - Check out https://dexter2099.github.io/
-- and https://dexter-developer.vercel.app/
+- And https://dexter-developer.vercel.app/
   
 
 
