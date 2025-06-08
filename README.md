@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dexter. 
 - 👀 I’m looking for a role as a Software Developer
-- 🌱 I’m a Masters of Information Technology Graduate from the Queensland University of Technology, majoring in computer science
+- 🌱 I’m a Masters of Information Technology Graduate from the Queensland University of Technology, majoring in Computer Science
 - 📫 How to reach me: dexter.mehta01@gmail.com
 - My resume https://dexter2099.github.io/
 - My developer blog https://dexter-developer.vercel.app/
