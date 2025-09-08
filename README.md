@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dexter 
-- 🌱 I’m a Masters of Information Technology Graduate from the Queensland University of Technology, majoring in Computer Science
 - Web: https://dexter-developer.vercel.app/
 
   
