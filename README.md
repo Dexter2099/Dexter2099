@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dexter
 - Junior Backend Developer
-- Web: https://dexter-developer.dev/
+- https://dexter-developer.dev/
 
   
 
