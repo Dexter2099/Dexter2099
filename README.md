@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Dexter
-- Junior Backend Developer
-- https://dexter-developer.dev/
-
-  # Dexter Mehta
+# Dexter Mehta
 
 Junior backend engineer based in Brisbane, Australia.
 
