@@ -4,8 +4,8 @@ I build Python backend projects with FastAPI, PostgreSQL, SQLAlchemy, Docker, py
 
 ## Links
 
-- Web: https://dexter-developer.dev
-- LinkedIn: https://www.linkedin.com/in/dexter-developer/
+- [Web](https://dexter-developer.dev/)
+- [LinkedIn](https://www.linkedin.com/in/dexter-developer/)
 
 
 <!---
