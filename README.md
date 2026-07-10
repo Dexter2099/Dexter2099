@@ -12,7 +12,7 @@
 
 ### About Me
 
-I build Python backend projects. My current focus is backend APIs, database-backed applications, production hygiene, and applied AI systems built on top of reliable software.
+I build backend systems for real-world products, from AI workflow tools to assessment platforms and operational applications. My focus is APIs, database-backed workflows, testing, CI, and production hygiene, with an interest in applied AI systems built on reliable software.
 
 ### Tech Stack
 
