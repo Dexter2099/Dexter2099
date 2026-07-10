@@ -44,7 +44,7 @@ I build Python backend projects with FastAPI, PostgreSQL, SQLAlchemy, Docker, py
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dexter-developer/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://dexter-developer.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://dexter-developer.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" /></a>
 </p>
 
 ### 📊 GitHub Stats
