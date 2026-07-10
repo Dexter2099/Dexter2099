@@ -6,7 +6,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=385&height=44&lines=Backend%20Developer" alt="Typing headlines" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1000&color=a371f7&center=true&vCenter=true&width=385&height=44&lines=Backend%20Developer" alt="Typing headlines" />
   </picture>
 </p>
 
