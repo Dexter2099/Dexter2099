@@ -12,7 +12,7 @@
 
 ### About Me
 
-I build Python backend projects with FastAPI, PostgreSQL, SQLAlchemy, Docker, pytest, and GitHub Actions. My current focus is backend APIs, database-backed applications, production hygiene, and applied AI systems built on top of reliable software.
+I build Python backend projects. My current focus is backend APIs, database-backed applications, production hygiene, and applied AI systems built on top of reliable software.
 
 ### Tech Stack
 
