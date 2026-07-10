@@ -1,6 +1,13 @@
 <h1 align="center">Dexter Mehta</h1>
 
-<p align="center"><strong>Junior backend engineer</strong></p>
+<p align="center">
+  <kbd>Junior backend engineer</kbd>
+  <kbd>Python</kbd>
+  <kbd>FastAPI</kbd>
+  <kbd>PostgreSQL</kbd>
+  <kbd>Docker</kbd>
+  <kbd>GitHub Actions</kbd>
+</p>
 
 ### 🚀 About Me
 
@@ -8,32 +15,31 @@ I build Python backend projects with FastAPI, PostgreSQL, SQLAlchemy, Docker, py
 
 ### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>JavaScript, TypeScript, Python</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React, Vue.js, Tailwind CSS, Vite, jQuery</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>FastAPI, Node.js, SQLAlchemy</td>
-  </tr>
-  <tr>
-    <td><strong>Data</strong></td>
-    <td>PostgreSQL, MySQL, SQLite, Supabase</td>
-  </tr>
-  <tr>
-    <td><strong>AI / ML</strong></td>
-    <td>PyTorch, TensorFlow</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud / Tools</strong></td>
-    <td>Google Cloud, DigitalOcean, Docker, Git, GitHub, GitHub Actions, Figma, Jira, Slack</td>
-  </tr>
-</table>
+<p align="left">
+  <kbd>JavaScript</kbd>
+  <kbd>TypeScript</kbd>
+  <kbd>Python</kbd>
+  <kbd>React</kbd>
+  <kbd>Vue.js</kbd>
+  <kbd>FastAPI</kbd>
+  <kbd>Node.js</kbd>
+  <kbd>Tailwind CSS</kbd>
+  <kbd>Vite</kbd>
+  <kbd>jQuery</kbd>
+  <kbd>PyTorch</kbd>
+  <kbd>TensorFlow</kbd>
+  <kbd>PostgreSQL</kbd>
+  <kbd>MySQL</kbd>
+  <kbd>SQLite</kbd>
+  <kbd>Supabase</kbd>
+  <kbd>Google Cloud</kbd>
+  <kbd>DigitalOcean</kbd>
+  <kbd>Git</kbd>
+  <kbd>GitHub</kbd>
+  <kbd>Figma</kbd>
+  <kbd>Jira</kbd>
+  <kbd>Slack</kbd>
+</p>
 
 ### 🔗 Connect With Me
 
@@ -46,12 +52,12 @@ I build Python backend projects with FastAPI, PostgreSQL, SQLAlchemy, Docker, py
 
 <table>
   <tr>
-    <td><strong>Primary work</strong></td>
-    <td>Backend APIs, database-backed applications, testing, CI, and production hygiene</td>
+    <td align="center"><strong>Backend APIs</strong><br /><kbd>FastAPI</kbd> <kbd>SQLAlchemy</kbd> <kbd>PostgreSQL</kbd></td>
+    <td align="center"><strong>Production Hygiene</strong><br /><kbd>pytest</kbd> <kbd>Docker</kbd> <kbd>CI</kbd></td>
   </tr>
   <tr>
-    <td><strong>Current focus</strong></td>
-    <td>Reliable Python services, applied AI systems, and practical developer workflows</td>
+    <td align="center"><strong>Applied AI</strong><br /><kbd>Python</kbd> <kbd>PyTorch</kbd> <kbd>TensorFlow</kbd></td>
+    <td align="center"><strong>Developer Workflows</strong><br /><kbd>Git</kbd> <kbd>GitHub Actions</kbd> <kbd>Automation</kbd></td>
   </tr>
 </table>
 
