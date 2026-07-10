@@ -2,9 +2,7 @@
   <picture>
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=474&text=Dexter%20Mehta" alt="Dexter Mehta" />
   </picture>
-</p>
-
-<p align="center">
+  <br />
   <picture>
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&pause=1000&color=a371f7&center=true&vCenter=true&width=385&height=44&lines=Backend%20Developer" alt="Typing headlines" />
   </picture>
