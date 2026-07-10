@@ -10,11 +10,11 @@
   </picture>
 </p>
 
-### 🚀 About Me
+### About Me
 
 I build Python backend projects with FastAPI, PostgreSQL, SQLAlchemy, Docker, pytest, and GitHub Actions. My current focus is backend APIs, database-backed applications, production hygiene, and applied AI systems built on top of reliable software.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></picture>
