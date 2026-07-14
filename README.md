@@ -1,6 +1,10 @@
 <p align="center">
   <picture>
-    <img src="assets/profile-header.png" alt="Dexter Mehta - Backend Developer" width="620" />
+    <img src="assets/profile-name.png" alt="Dexter Mehta" width="620" />
+  </picture>
+  <br />
+  <picture>
+    <img src="assets/profile-role.png" alt="Backend Developer" width="620" />
   </picture>
 </p>
 
