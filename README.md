@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="assets/profile-header.svg" alt="Dexter Mehta - Backend Developer" width="620" />
+    <img src="assets/profile-header.png" alt="Dexter Mehta - Backend Developer" width="620" />
   </picture>
 </p>
 
