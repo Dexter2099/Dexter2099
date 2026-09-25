@@ -1,12 +1,12 @@
 <p align="center">
   <picture>
-    <img src="assets/profile-header.png" alt="Dexter Mehta - Backend Developer" width="620" />
+    <img src="assets/profile-header.png" alt="Dexter Mehta - Fullstack Developer" width="620" />
   </picture>
 </p>
 
 ### About Me
 
-I build backend systems for real-world products, from AI workflow tools to assessment platforms and operational applications. My focus is APIs, database-backed workflows, testing, CI, and production hygiene, with an interest in applied AI systems built on reliable software.
+I build systems for real-world products, from AI workflow tools to assessment platforms and operational applications. My focus is APIs, database-backed workflows, testing, CI, and production hygiene, with an interest in applied AI systems built on reliable software.
 
 ### Tech Stack
 
