@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="assets/profile-header.png?v=1b3b933" alt="Dexter Mehta - Fullstack Developer" width="620" />
+    <img src="assets/profile-header.png?v=83695e3" alt="Dexter Mehta - Software Developer" width="620" />
   </picture>
 </p>
 
