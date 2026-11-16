@@ -6,7 +6,7 @@
 
 ### About Me
 
-I build systems for real-world products, from AI workflow tools to assessment platforms and operational applications. My focus is APIs, database-backed workflows, testing, CI, and production hygiene, with an interest in applied AI systems built on reliable software.
+Software developer with a Master of IT (Computer Science), experience with all levels of SDLC, from planning and design to development, testing, deployment and maintenance. Work includes API development, authentication, test automation and CI/CD.
 
 ### Tech Stack
 
